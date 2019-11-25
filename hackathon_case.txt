@@ -1,0 +1,42 @@
+================================================================
+PROJETO: IMPLANTAÇÃO NOVO SISTEMA DE GESTÃO INTEGRADA
+================================================================
+
+CENÁRIOS POSSÍVEIS:
+
+- SISTEMA ERP - HOSPEDAGEM:
+     - 1. ON-PREMISE
+     - 2. CLOUD
+
+1. ON-PREMISE:
+         - Avaliação de custos para 5 anos, contendo:
+             - custo mensal(infraestrutura, colaboradores TI para sustentação da infra)
+             - previsão de escalabilidade do ambiente, com aquisição de novos servidores, licenças, etc.
+         - Segurança da informação:
+             - contratação de colaborador especialista em segurança da informação, caso não tenha em casa.
+             - aquisição e configuração de softwares para segurança do ambiente.
+             - controle dos backups e recuperação de desastres;
+             - configuração de acesso ao ERP, estando fora da empresa;
+
+2. CLOUD: 
+      - Deve ser feita uma avaliação de custos para 5 anos, contendo:
+          - custo mensal de hospedagem ERP cloud;
+          - previsão de escalabilidade do ambiente, com inclusão de custo adicional;
+
+      - Segurança da informação: 
+          - Seleção criteriosa do fornecedor de cloud, com base nos clientes atuais, histórico de incidentes de segurança, níveis de segurança implementados, bem como,
+            qual a disponibilidade do fornecedor 24 x 7, etc?
+            Qual a política de monitoramento de ambiente (reativo, proativo).
+            Qual a política de backup e recuperação em caso de desastres.
+            Devemos nos preocupar também, com a criação de um contrato bem alinhado e abrangente com o provedor de cloud.
+            Quais os procedimentos em caso de troca de fornecedor de cloud devido a alguma instatisfação com os serviços prestados?
+         
+            Disponibilidade do ERP para acesso de qualquer lugar fora da empresa.
+
+
+
+CONCLUSÃO A SER APRESENTADA:
+As vantagens da Hospedagem em Cloud superam as desvantagens no que tange ao custo mensal, segurança, disponibilidade e acesso facilitado de qualquer lugar.
+
+
+
